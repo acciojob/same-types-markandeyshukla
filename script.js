@@ -1,7 +1,7 @@
 function isSameType(value1, value2) {
   //your js code here
-	if(typeof value1 === value2){
-		console.log(typeof)
+	if(isSameType (value1 === value2)){
+		console.log(typeof value1)
 	}else{
 		console.log("not same type")
 	}
